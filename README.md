@@ -26,7 +26,6 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 **Libraries/Tools:** Streamlit, TensorFlow, GitHub Actions  
 
 ## 🛠 Tech Stack
-## 🛠 Tech Stack
 
 ### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
@@ -66,9 +65,12 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://linkedin.com/in/ronak29sharma)  
-- [GitHub](https://github.com/ronaksharma2908)  
-- [LeetCode](https://leetcode.com/ronak2908sharma)  
+- ## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak29sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak29sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-ronaksharma2908-black?style=for-the-badge&logo=github)](https://github.com/ronaksharma2908)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ronak2908sharma-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ronak2908sharma)
+[![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
 
 ---
 
@@ -79,10 +81,31 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 - **myportfolio** — Personal portfolio website
 
   ## 📊 Repo Stats
-![Stars](https://img.shields.io/github/stars/ronaksharma2908/arpmodel?style=social)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908/arpmodel?style=social)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908/arpmodel)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/arpmodel)
+## 📊 Repo Stats
+
+### 🔹 TO-DO-APP
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+
+### 🔹 arpmodel
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+
+### 🔹 myportfolio
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+
+### 🔹 AI-SaaS-Dashboard
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
 
 
 ---
