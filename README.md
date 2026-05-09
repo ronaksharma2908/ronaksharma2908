@@ -115,7 +115,6 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 ![GitHub Snake Light](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/snake.svg#gh-dark-mode-only)
 
-
 ## 📈 GitHub Stats
 
 <!-- Overall Stats -->
