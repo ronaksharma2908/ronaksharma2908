@@ -74,7 +74,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 
 ---
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ronak2908sharma?theme=tokyonight&font=Source%20Code%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ronak2908sharma?theme=darkt&font=Source%20Code%20Pro&ext=heatmap)
 
 
 ## 💡 Featured Projects
