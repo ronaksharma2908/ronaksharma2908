@@ -109,6 +109,17 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 
 
 ---
+## 📈 GitHub Stats
+
+<!-- Overall Stats -->
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&count_private=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksharma2908&layout=compact&theme=tokyonight)
+
+<!-- Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaksharma2908&theme=dracula)
+
 
 > *“Transforming ideas into solutions. Passionate about problem-solving and real-world projects.”*
 
