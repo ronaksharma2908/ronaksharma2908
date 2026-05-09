@@ -26,13 +26,33 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 **Libraries/Tools:** Streamlit, TensorFlow, GitHub Actions  
 
 ## 🛠 Tech Stack
+## 🛠 Tech Stack
+
+### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-Programming-darkblue?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔹 Backend
+![Django](https://img.shields.io/badge/Django-Web-green?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🔹 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔹 Libraries & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
-![Django](https://img.shields.io/badge/Django-Web-green?style=for-the-badge&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge&logo=mysql)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 
 ---
