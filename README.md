@@ -73,6 +73,9 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 [![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
 
 ---
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ronak2908sharma?theme=tokyonight&font=Source%20Code%20Pro&ext=heatmap)
+
 
 ## 💡 Featured Projects
 - **TO-DO-APP** — Simple task manager with CSS polish  
@@ -80,7 +83,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 - **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
 - **myportfolio** — Personal portfolio website
 
-  ## 📊 Repo Stats
+
 ## 📊 Repo Stats
 
 ### 🔹 TO-DO-APP
@@ -108,7 +111,11 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 ![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
 
 
----
+---## 🐍 Contribution Snake
+![GitHub Snake Light](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ## 📈 GitHub Stats
 
 <!-- Overall Stats -->
