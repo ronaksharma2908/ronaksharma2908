@@ -73,8 +73,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 [![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
 
 ---
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ronak2908sharma?theme=darkt&font=Source%20Code%20Pro&ext=heatmap)
+
 
 
 ## 💡 Featured Projects
