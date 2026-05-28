@@ -64,7 +64,6 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 
 ---
 
-## 🔗 Connect With Me
 - ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak29sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak29sharma)
@@ -81,6 +80,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 - **arpmodel** — Antibiotic resistance prediction ML model  
 - **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
 - **myportfolio** — Personal portfolio website
+- **portfolio-card-project**- Made using React
 
 
 ## 📊 Repo Stats
