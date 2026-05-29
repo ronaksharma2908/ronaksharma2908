@@ -19,11 +19,6 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, C, JavaScript, HTML, CSS  
-**Frontend:** React, Tailwind, Bootstrap  
-**Backend:** Django, Node.js  
-**Databases:** MySQL, SQLite  
-**Libraries/Tools:** Streamlit, TensorFlow, GitHub Actions
 
 ### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
