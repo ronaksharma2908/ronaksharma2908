@@ -61,7 +61,6 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak29sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak29sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-ronaksharma2908-black?style=for-the-badge&logo=github)](https://github.com/ronaksharma2908)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ronak2908sharma-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ronak2908sharma)
 [![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
 
 ---
