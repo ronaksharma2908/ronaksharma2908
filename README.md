@@ -73,6 +73,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 - **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
 - **myportfolio** — Personal portfolio website
 - **portfolio-card-project**- Made using React
+- **scientific-calculator**= Made using Python
 
 
 ## 📊 Repo Stats
