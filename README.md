@@ -53,7 +53,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 - 🎓 B.Tech CSE (AI & ML), 1st year  
 - 💻 Strong foundation in Web Development  
 - 🔬 Hands-on projects in AI/ML & Data Science  
-- 🌱 Future Goal: Full-Stack + AI-powered SaaS solutions  
+- 🌱 Future Goal: My personalised AI Startup
 
 ---
 
