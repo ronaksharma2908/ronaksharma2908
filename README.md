@@ -7,7 +7,7 @@ Aspiring Web Developer | Exploring AI, ML & Full-Stack Development
 
 ## 🌟 Status
 - Available for collaboration 🤝  
-- Focus: Web Development | AI/ML | Data Analytics | Problem Solving  
+- Focus: Web Development | AI/ML | Open Source | Problem Solving 
 
 ---
 
