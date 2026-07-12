@@ -2,40 +2,38 @@
 
 **CSE (AI & ML) @ UIET MDU Rohtak**  
 💻 Full‑Stack Developer | 🌐 Open‑Source Contributor | 🤖 AI/ML Explorer  
-*Transforming ideas into scalable solutions, one project at a time.*
+*Building, Learning, and Growing every day.*
 
 ---
 
-## ✨ About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=Full-Stack+Developer;Competitive+Programmer;Open-Source+Project+Admin;AI+%26+ML+Explorer;Google+Student+Ambassador)](https://git.io/typing-svg)
 
----
 
 ## 📚 Currently Learning & Achievements
-- 📖 Mastering Data Structures & Algorithms (DSA)  
-- 🧩 Solving problems daily on GeeksforGeeks & LeetCode  
-- 🌐 Active Open‑Source Contributor  
+- 📖 Learning Data Structures & Algorithms (DSA)  
+- 🧩 Actively solving problems on GeeksforGeeks & LeetCode  
+- 🌐 Contributing to Open Source projects  
 - 👨‍💻 Project Admin at **ECSOC'26** (Open Source Initiative)  
 - 🎓 Google Student Ambassador  
   - Scored **1500+ points** on the leaderboard  
-  - 🥈 Earned **Silver Badge**
+  - 🥈 Unlocked **Silver Badge**
+ 
 
 ---
 
 ## 🏅 Achievements
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=600&lines=Hackathon+Finalist;Elite+Her+Hackathon+Participant;Open-Source+Contributor;Project+Admin+SaaS+Billing+Portal;Google+Student+Ambassador;Competitive+Programmer)](https://git.io/typing-svg)
+
 
 - 🏆 Hackathon Finalist — Antibiotic Resistance Prediction Project  
 - 🎓 Elite Her Hackathon Participant  
 - 🌐 Open‑Source Contributor (NSOC'26, GSSoC, ECSOC'26)  
 - 👨‍💻 Project Admin — SaaS Billing Portal & ECSOC'26 Open Source Initiative  
 - 🎓 Google Student Ambassador — Scored 1500+ points, unlocked Silver Badge  
-- 📚 Competitive Programming — Active on LeetCode & GeeksforGeeks
+- 📚 Competitive Programming — Active on LeetCode & GeeksforGeeks, solving DSA problems regularly
+
 
 ---
 
-## ⚡ Tech I Work With ⚡
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Languages;Frontend+Development;Backend+Development;Databases;Libraries+%26+Tools;UI%2FUX+Design)](https://git.io/typing-svg)
+## 🛠 Tech Stack
 
 ### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -71,38 +69,78 @@
 ### 🔹 UI/UX & Design
 ![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Creative-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
 ## 📚 My Journey & Skills Flow
-- 🎓 B.Tech CSE (AI & ML), 1st Year  
+- 🎓 B.Tech CSE (AI & ML), 1st year  
 - 💻 Strong foundation in Web Development  
 - 🔬 Hands-on projects in AI/ML & Data Science  
-- 🌱 Future Goal: Build my personalised AI Startup  
+- 🌱 Future Goal: My personalised AI Startup
 
 ---
 
-## 🌐 Connect With Me
+- ## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak29sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak29sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-ronaksharma2908-black?style=for-the-badge&logo=github)](https://github.com/ronaksharma2908)
 [![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ronaksharma-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ronaksharma)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-ronaksharma-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronaksharma)
 
 ---
+
+
 
 ## 💡 Featured Projects
 - **TO-DO-APP** — Simple task manager with CSS polish  
 - **arpmodel** — Antibiotic resistance prediction ML model  
 - **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
-- **myportfolio** — Personal portfolio website  
-- **SAAS-BILLING Portal** — Full-Stack MERN Application  
-- **scientific-calculator** — Made using Python  
+- **myportfolio** — Personal portfolio website
+- **SAAS-BILLING Portal** — Full-Stack MERN Application
+- **scientific-calculator**- Made using Python
+
+
+## 📊 Repo Stats
+
+### 🔹 TO-DO-APP
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+
+### 🔹 arpmodel
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+
+### 🔹 myportfolio
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+
+### 🔹 AI-SaaS-Dashboard
+![Stars](https://img.shields.io/github/stars/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+
+
+## 📈 GitHub Stats
+
+<!-- Overall Stats -->
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&count_private=true&theme=radical)
+
+<!-- Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaksharma2908&theme=dracula)
+
 
 ---
 
-## 📊 Repo Stats
-![Stars](https://img.shields.io/github/stars/ronaksharma2908?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908?style=for
+## 🚀 Let’s Collaborate
+
+
+💡 Always open to new ideas, contributions, and exciting projects.  
+📬 Reach out for collaboration, mentorship, or brainstorming sessions.  
+🌍 Together, let’s build scalable and meaningful tech!
+
+
+
+
