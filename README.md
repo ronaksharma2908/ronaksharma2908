@@ -92,7 +92,7 @@
 - **arpmodel** — Antibiotic resistance prediction ML model  
 - **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
 - **myportfolio** — Personal portfolio website
-- - **SAAS-BILLING Portal** — Full-Stack MERN Application
+- **SAAS-BILLING Portal** — Full-Stack MERN Application
 - **scientific-calculator**- Made using Python
 
 
@@ -136,7 +136,6 @@
 
 ## 🚀 Let’s Collaborate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Open+Source+Collaboration;Full-Stack+Development;AI+%26+ML+Projects;Problem+Solving+%26+Innovation;Building+Impactful+Communities)](https://git.io/typing-svg)
 
 💡 Always open to new ideas, contributions, and exciting projects.  
 📬 Reach out for collaboration, mentorship, or brainstorming sessions.  
