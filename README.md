@@ -6,9 +6,7 @@
 
 ---
 
-### ✨ Animated Intro
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Full-Stack+Developer;Competitive+Programmer;Open-Source+Project+Admin;AI+%26+ML+Explorer)](https://git.io/typing-svg)
----
+
 
 ## 📚 Currently Learning & Achievements
 - 📖 Learning Data Structures & Algorithms (DSA)  
@@ -24,7 +22,6 @@
 
 ## 🏅 Achievements
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=500&lines=Hackathon+Finalist;Open-Source+Project+Admin;Google+Student+Ambassador+%F0%9F%8F%86;Competitive+Programmer;AI+%26+ML+Explorer)](https://git.io/typing-svg)
 
 - 🏆 Hackathon Finalist — Antibiotic Resistance Prediction Project  
 - 🎓 Elite Her Hackathon Participant  
@@ -130,9 +127,6 @@
 
 <!-- Overall Stats -->
 ![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&count_private=true&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksharma2908&layout=compact&theme=tokyonight)
 
 <!-- Contribution Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaksharma2908&theme=dracula)
