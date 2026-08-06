@@ -14,8 +14,8 @@
 - 🌐 Contributing to Open Source projects  
 - 👨‍💻 Project Admin at **ECSOC'26** (Open Source Initiative)  
 - 🎓 Google Student Ambassador  
-  - Scored **1500+ points** on the leaderboard  
-  - 🥈 Unlocked **Silver Badge**
+  - Scored **1900+ points** on the leaderboard  
+  - 🥇 Unlocked **Golden Badge**
  
 
 ---
