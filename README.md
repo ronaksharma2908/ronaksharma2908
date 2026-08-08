@@ -12,7 +12,7 @@
 - 📖 Learning Data Structures & Algorithms (DSA)  
 - 🧩 Actively solving problems on GeeksforGeeks & LeetCode  
 - 🌐 Contributing to Open Source projects    
-- 🎓 Google Student Ambassador  
+- 🎓 Google Student Ambassador 2026 
   - Scored **2100+ points** on the leaderboard  
   - 🥇 Unlocked **Golden Badge**
  
