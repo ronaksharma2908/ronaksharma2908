@@ -25,7 +25,6 @@
 - 🏆 Hackathon Finalist — Antibiotic Resistance Prediction Project  
 - 🎓 Elite Her Hackathon Participant  
 - 🌐 Open‑Source Contributor (NSOC'26, GSSoC, ECSOC'26)  
-- 👨‍💻 Project Admin — SaaS Billing Portal & ECSOC'26 Open Source Initiative  
 - 🎓 Google Student Ambassador — Scored 1500+ points, unlocked Silver Badge  
 - 📚 Competitive Programming — Active on LeetCode & GeeksforGeeks, solving DSA problems regularly
 
