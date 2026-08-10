@@ -9,12 +9,16 @@
 
 
 ## 📚 Currently Learning & Achievements
-- 📖 Learning Data Structures & Algorithms (DSA)  
-- 🧩 Actively solving problems on GeeksforGeeks & LeetCode  
-- 🌐 Contributing to Open Source projects    
-- 🎓 Google Student Ambassador 2026 
-  - Scored **2100+ points** on the leaderboard  
+
+- 📖 Learning Data Structures & Algorithms (DSA)
+- 🧩 Actively solving problems on GeeksforGeeks & LeetCode
+- 🌐 Contributing to Open Source projects
+- 🎓 Google Student Ambassador 2026
+  - 🏆 Scored **2100+ points** on the leaderboard
   - 🥇 Unlocked **Golden Badge**
+- ☁️ **Google Cloud Arcade Facilitator**
+  - 🎮 Facilitating Google Cloud learning & activities
+  - 🚀 Helping learners explore Google Cloud technologies through hands-on labs
  
 
 ---
