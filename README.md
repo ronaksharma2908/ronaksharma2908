@@ -377,6 +377,9 @@ timeline
 
 <div align="center">
 
-### 🚀 *Building today. Innovating tomorrow.*
+### Building. Learning. Experimenting. Growing. 🚀  
+**Always curious, always creating.**
+
 
 </div>
+
