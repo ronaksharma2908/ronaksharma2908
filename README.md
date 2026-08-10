@@ -1,152 +1,386 @@
-# 👋 Hi, I'm Ronak Sharma 🚀
+<div align="center">
 
-**CSE (AI & ML) @ UIET MDU Rohtak**  
-💻 Full‑Stack Developer | 🌐 Open‑Source Contributor | 🤖 AI/ML Explorer  
-*Building, Learning, and Growing every day.*
+# 👋 Hey, I'm **Ronak Sharma** 🚀
 
----
+### `CSE (AI & ML) @ UIET MDU Rohtak`
 
+💻 Full-Stack Developer  •  🤖 AI/ML Explorer  •  🌐 Open-Source Contributor
+☁️ Google Cloud Arcade Facilitator  •  🎓 Google Student Ambassador 2026
 
+**Building. Learning. Experimenting. Growing. 🚀**
 
-## 📚 Currently Learning & Achievements
+<br>
 
-- 📖 Learning Data Structures & Algorithms (DSA)
-- 🧩 Actively solving problems on GeeksforGeeks & LeetCode
-- 🌐 Contributing to Open Source projects
-- 🎓 Google Student Ambassador 2026
-  - 🏆 Scored **2100+ points** on the leaderboard
-  - 🥇 Unlocked **Golden Badge**
-- ☁️ **Google Cloud Arcade Facilitator**
-  - 🎮 Facilitating Google Cloud learning & activities
-  - 🚀 Helping learners explore Google Cloud technologies through hands-on labs
- 
+<a href="https://github.com/ronak29sharma">
+  <img src="https://img.shields.io/github/followers/ronak29sharma?label=Followers&style=for-the-badge&logo=github">
+</a>
+<a href="https://github.com/ronak29sharma?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ronak29sharma?affiliations=OWNER&style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/ronak29sharma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
----
-
-## 🏅 Achievements
-
-
-- 🏆 Hackathon Finalist — Antibiotic Resistance Prediction Project  
-- 🎓 Elite Her Hackathon Participant  
-- 🌐 Open‑Source Contributor (NSOC'26, GSSoC, ECSOC'26)  
-- 🎓 Google Student Ambassador — Scored 1500+ points, unlocked Silver Badge  
-- 📚 Competitive Programming — Active on LeetCode & GeeksforGeeks, solving DSA problems regularly
-
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Programming-darkblue?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+I'm a **B.Tech CSE (AI & ML) student** passionate about building useful products, solving problems, and exploring emerging technologies.
 
-### 🔹 Frontend
-![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+* 🎓 CSE (AI & ML) — **UIET MDU Rohtak**
+* 💻 Focused on **Full-Stack Development**
+* 🤖 Exploring **AI/ML & Data Science**
+* 🧠 Building a strong foundation in **DSA & Competitive Programming**
+* 🌐 Contributing to **Open Source**
+* ☁️ **Google Cloud Arcade Facilitator**
+* 🎓 **Google Student Ambassador 2026**
+* 🚀 Working toward building my own **AI-powered startup**
 
-### 🔹 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Web-green?style=for-the-badge&logo=django&logoColor=white)
-
-### 🔹 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔹 Libraries & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-FFB400?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔹 UI/UX & Design
-![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-Creative-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-## 📚 My Journey & Skills Flow
-- 🎓 B.Tech CSE (AI & ML), 1st year  
-- 💻 Strong foundation in Web Development  
-- 🔬 Hands-on projects in AI/ML & Data Science  
-- 🌱 Future Goal: My personalised AI Startup
+> 💡 *"Learn → Build → Share → Repeat."*
 
 ---
 
-- ## 🌐 Connect With Me
+## 🏆 Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak29sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak29sharma)
-[![GitHub](https://img.shields.io/badge/GitHub-ronaksharma2908-black?style=for-the-badge&logo=github)](https://github.com/ronaksharma2908)
-[![Email](https://img.shields.io/badge/Email-sharmaronak2908@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sharmaronak2908@gmail.com)
+<table>
+<tr>
+<td align="center" width="25%">
 
----
+### ☁️
 
+**Google Cloud**
 
+Google Cloud Arcade
+**Facilitator**
 
-## 💡 Featured Projects
-- **TO-DO-APP** — Simple task manager with CSS polish  
-- **arpmodel** — Antibiotic resistance prediction ML model  
-- **AI-SaaS-Dashboard** — Streamlit-powered analytics dashboard  
-- **myportfolio** — Personal portfolio website
-- **SAAS-BILLING Portal** — Full-Stack MERN Application
-- **scientific-calculator**- Made using Python
+</td>
 
+<td align="center" width="25%">
 
-## 📊 Repo Stats
+### 🎓
 
-### 🔹 TO-DO-APP
-![Stars](https://img.shields.io/github/stars/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/TO-DO-APP?style=for-the-badge&logo=github)
+**Google**
 
-### 🔹 arpmodel
-![Stars](https://img.shields.io/github/stars/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/arpmodel?style=for-the-badge&logo=github)
+Student Ambassador
+**2026**
 
-### 🔹 myportfolio
-![Stars](https://img.shields.io/github/stars/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/myportfolio?style=for-the-badge&logo=github)
+</td>
 
-### 🔹 AI-SaaS-Dashboard
-![Stars](https://img.shields.io/github/stars/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ronaksharma2908/AI-SaaS-Dashboard?style=for-the-badge&logo=github)
+<td align="center" width="25%">
 
+### 🏅
 
-## 📈 GitHub Stats
+**Open Source**
 
-<!-- Overall Stats -->
-![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&count_private=true&theme=radical)
+NSOC'26 • GSSoC
+ECSOC'26
 
-<!-- Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaksharma2908&theme=dracula)
+</td>
 
+<td align="center" width="25%">
+
+### 🏆
+
+**Hackathons**
+
+Finalist
+AI/ML Projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Let’s Collaborate
+## 🥇 Achievements & Experience
 
+* 🏆 **Hackathon Finalist** — Antibiotic Resistance Prediction Project
+* 🎓 **Google Student Ambassador 2026**
 
-💡 Always open to new ideas, contributions, and exciting projects.  
-📬 Reach out for collaboration, mentorship, or brainstorming sessions.  
-🌍 Together, let’s build scalable and meaningful tech!
+  * 🏆 2100+ leaderboard points
+  * 🥇 Golden Badge unlocked
+* ☁️ **Google Cloud Arcade Facilitator**
 
+  * 🎮 Facilitating Google Cloud learning activities
+  * 🚀 Helping learners explore Google Cloud through hands-on labs
+* 🌐 **Open-Source Contributor**
+
+  * NSOC'26
+  * GSSoC
+  * ECSOC'26
+* 🎓 **Elite Her Hackathon Participant**
+* 🧩 Active problem solver on **LeetCode & GeeksforGeeks**
 
 ---
-**## 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/ronaksharma2908/ronaksharma2908/blob/output/snake.svg#gh-dark-mode-only)**
 
+# 🛠️ Tech Stack
 
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI / ML & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` • `Pandas` • `Scikit-Learn` • `Streamlit`
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+### 🎨 UI / UX
+
+`Figma` • `Responsive Design` • `Modern UI` • `CSS`
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA & Competitive Programming   █████████░  90%
+Full-Stack Development          ████████░░  80%
+AI / Machine Learning            ██████░░░░  60%
+Cloud & DevOps                   █████░░░░░  50%
+Open Source                      ███████░░░  70%
+```
+
+### 🧠 My Current Focus
+
+* 🧩 DSA & problem solving
+* 💻 Advanced Full-Stack Development
+* 🤖 AI/ML fundamentals
+* ☁️ Google Cloud
+* 🌐 Open Source contribution
+* 🚀 Building real-world projects
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📝 TO-DO-APP
+
+A simple and clean task management application focused on usability and responsive UI.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ronak29sharma/TO-DO-APP)
+
+</td>
+
+<td width="50%">
+
+## 🧬 arpmodel
+
+Machine Learning project focused on **Antibiotic Resistance Prediction**.
+
+**Tech:** Python • ML • Data Science
+
+🔗 [View Repository](https://github.com/ronak29sharma/arpmodel)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 AI-SaaS-Dashboard
+
+Interactive analytics dashboard powered by Streamlit.
+
+**Tech:** Python • Streamlit • Data Analytics
+
+🔗 [View Repository](https://github.com/ronak29sharma/AI-SaaS-Dashboard)
+
+</td>
+
+<td width="50%">
+
+## 🌐 My Portfolio
+
+Personal developer portfolio showcasing my projects, skills and journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ronak29sharma/myportfolio)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💳 SAAS-BILLING Portal
+
+Full-stack SaaS billing application built using the MERN stack.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+</td>
+
+<td width="50%">
+
+## 🧮 Scientific Calculator
+
+A scientific calculator built using Python.
+
+**Tech:** Python
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ronak29sharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronak29sharma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ronak29sharma&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronak29sharma&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ronak29sharma/ronak29sharma/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌱 My Journey
+
+```mermaid
+timeline
+    title Ronak's Developer Journey
+
+    2025 : Started B.Tech CSE (AI & ML)
+         : Began exploring Web Development
+         
+    2026 : Google Student Ambassador
+         : Google Cloud Arcade Facilitator
+         : Open Source Contributions
+         : Hackathons & AI/ML Projects
+         
+    Future : Advanced DSA
+           : AI/ML Development
+           : Full-Stack Products
+           : Build an AI Startup
+```
+
+---
+
+# 🎯 2026 Goals
+
+| Goal                         | Status         |
+| ---------------------------- | -------------- |
+| 🧠 Master DSA                | 🔄 In Progress |
+| 💻 Build Full-Stack Projects | 🔄 In Progress |
+| 🤖 Learn AI/ML               | 🔄 In Progress |
+| 🌐 Contribute to Open Source | 🔥 Active      |
+| ☁️ Explore Google Cloud      | 🔥 Active      |
+| 🚀 Build AI Products         | 🎯 Next        |
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ronak29sharma/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ronak29sharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 Have an idea? Let's build it.
+
+**Open to collaborations • Open Source • Hackathons • AI Projects**
+
+<br>
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ronak29sharma&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *Building today. Innovating tomorrow.*
+
+</div>
