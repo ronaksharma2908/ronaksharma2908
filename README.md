@@ -85,8 +85,8 @@ ECSOC'26
 
 **Hackathons**
 
-Finalist
-AI/ML Projects
+Actively
+Participating
 
 </td>
 </tr>
