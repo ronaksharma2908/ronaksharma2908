@@ -96,7 +96,6 @@ AI/ML Projects
 
 ## 🥇 Achievements & Experience
 
-* 🏆 **Hackathon Finalist** — Antibiotic Resistance Prediction Project
 * 🎓 **Google Student Ambassador 2026**
 
   * 🏆 2100+ leaderboard points
