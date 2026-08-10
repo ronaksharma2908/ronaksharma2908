@@ -12,12 +12,12 @@
 <br>
 
 <a href="https://github.com/ronaksharma2908">
-  <img src="https://img.shields.io/github/followers/ronak29sharma?label=Followers&style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/followers/ronaksharma2908?label=Followers&style=for-the-badge&logo=github">
 </a>
 <a href="https://github.com/ronaksharma2908?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ronak29sharma?affiliations=OWNER&style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/stars/ronaksharma2908?affiliations=OWNER&style=for-the-badge&logo=github">
 </a>
-<a href="https://www.linkedin.com/in/ronaksharma2908/">
+<a href="https://www.linkedin.com/in/ronak29sharma/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
