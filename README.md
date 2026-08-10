@@ -11,13 +11,13 @@
 
 <br>
 
-<a href="https://github.com/ronak29sharma">
+<a href="https://github.com/ronaksharma2908">
   <img src="https://img.shields.io/github/followers/ronak29sharma?label=Followers&style=for-the-badge&logo=github">
 </a>
-<a href="https://github.com/ronak29sharma?tab=repositories">
+<a href="https://github.com/ronaksharma2908?tab=repositories">
   <img src="https://img.shields.io/github/stars/ronak29sharma?affiliations=OWNER&style=for-the-badge&logo=github">
 </a>
-<a href="https://www.linkedin.com/in/ronak29sharma/">
+<a href="https://www.linkedin.com/in/ronaksharma2908/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -189,7 +189,7 @@ A simple and clean task management application focused on usability and responsi
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Repository](https://github.com/ronak29sharma/TO-DO-APP)
+🔗 [View Repository](https://github.com/ronaksharma2908/TO-DO-APP)
 
 </td>
 
@@ -201,7 +201,7 @@ Machine Learning project focused on **Antibiotic Resistance Prediction**.
 
 **Tech:** Python • ML • Data Science
 
-🔗 [View Repository](https://github.com/ronak29sharma/arpmodel)
+🔗 [View Repository](https://github.com/ronaksharma2908/arpmodel)
 
 </td>
 
@@ -217,7 +217,7 @@ Interactive analytics dashboard powered by Streamlit.
 
 **Tech:** Python • Streamlit • Data Analytics
 
-🔗 [View Repository](https://github.com/ronak29sharma/AI-SaaS-Dashboard)
+🔗 [View Repository](https://github.com/ronaksharma2908/AI-SaaS-Dashboard)
 
 </td>
 
@@ -229,7 +229,7 @@ Personal developer portfolio showcasing my projects, skills and journey.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Repository](https://github.com/ronak29sharma/myportfolio)
+🔗 [View Repository](https://github.com/ronaksharma2908/myportfolio)
 
 </td>
 
@@ -266,9 +266,9 @@ A scientific calculator built using Python.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronak29sharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronak29sharma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksharma2908&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -276,7 +276,7 @@ A scientific calculator built using Python.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ronak29sharma&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ronaksharma2908&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -286,7 +286,7 @@ A scientific calculator built using Python.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronak29sharma&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaksharma2908&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -296,7 +296,7 @@ A scientific calculator built using Python.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ronak29sharma/ronak29sharma/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ronak29sharma/ronaksharma2908/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -345,17 +345,14 @@ timeline
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ronak29sharma">
+<a href="https://github.com/ronaksharma2908">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/ronak2908sharma">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
 </div>
 
@@ -373,7 +370,7 @@ timeline
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ronak29sharma&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ronaksharma2908&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
