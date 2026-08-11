@@ -291,14 +291,10 @@ A scientific calculator built using Python.
 
 ---
 
-# 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/ronak29sharma/ronaksharma2908/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
 </div>
-
 ---
 
 # 🌱 My Journey
