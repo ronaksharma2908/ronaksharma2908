@@ -109,7 +109,7 @@ Participating
   * NSOC'26
   * GSSoC
   * ECSOC'26
-* 🎓 **Elite Her Hackathon Participant**
+
 * 🧩 Active problem solver on **LeetCode & GeeksforGeeks**
 
 ---
