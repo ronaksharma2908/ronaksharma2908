@@ -109,6 +109,7 @@ Participating
   * NSOC'26
   * GSSoC
   * ECSOC'26
+  * OSCI'26
 
 * 🧩 Active problem solver on **LeetCode & GeeksforGeeks**
 
