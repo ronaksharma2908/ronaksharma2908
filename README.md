@@ -64,7 +64,7 @@ Google Cloud Arcade
 **Google**
 
 Student Ambassador
-**2026**
+**2026** Cohort-I
 
 </td>
 
