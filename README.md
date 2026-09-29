@@ -1,122 +1,382 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,24&height=200&section=header&text=Ronak%20Sharma&fontSize=55&fontColor=fff&animation=twinkling&desc=CSE%20(AI%20%26%20ML)%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20%7C%20Open-Source&descColor=bb9af7&descSize=17&fontAlignY=40&descAlignY=62"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=BB9AF7&center=true&vCenter=true&width=650&lines=ronak%40github%3A~%24+whoami;→+Student+%7C+Developer+%7C+Builder;ronak%40github%3A~%24+cat+%2Fetc%2Fmission;→+%22Learn+→+Build+→+Share+→+Repeat%22+💡" />
+# 👋 Hey, I'm **Ronak Sharma** 🚀
 
-<br/>
+### `CSE (AI & ML) @ UIET MDU Rohtak`
 
-<a href="https://github.com/ronaksharma2908"><img src="https://img.shields.io/github/followers/ronaksharma2908?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d0017&labelColor=4a0080"/></a>
-<a href="https://www.linkedin.com/in/ronak29sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sharmaronak2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=ronaksharma2908&label=Views&color=bb9af7&style=for-the-badge"/>
+💻 Full-Stack Developer  •  🤖 AI/ML Explorer  •  🌐 Open-Source Contributor
+☁️ Google Cloud Arcade Facilitator  •  🎓 Google Student Ambassador 2026
+
+**Building. Learning. Experimenting. Growing. 🚀**
+
+<br>
+
+<a href="https://github.com/ronaksharma2908">
+  <img src="https://img.shields.io/github/followers/ronaksharma2908?label=Followers&style=for-the-badge&logo=github">
+</a>
+<a href="https://github.com/ronaksharma2908?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ronaksharma2908?affiliations=OWNER&style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/ronak29sharma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
 
 ---
 
-## `$ neofetch`
+## 🧑‍💻 About Me
 
+I'm a **B.Tech CSE (AI & ML) student** passionate about building useful products, solving problems, and exploring emerging technologies.
+
+* 🎓 CSE (AI & ML) — **UIET MDU Rohtak**
+* 💻 Focused on **Full-Stack Development**
+* 🤖 Exploring **AI/ML & Data Science**
+* 🧠 Building a strong foundation in **DSA & Competitive Programming**
+* 🌐 Contributing to **Open Source**
+* ☁️ **Google Cloud Arcade Facilitator**
+* 🎓 **Google Student Ambassador 2026**
+* 🚀 Working toward building my own **AI-powered startup**
+
+> 💡 *"Learn → Build → Share → Repeat."*
+
+---
+
+## 🏆 Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☁️
+
+**Google Cloud**
+
+Google Cloud Arcade
+**Facilitator**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓
+
+**Google**
+
+Student Ambassador
+**2026** Cohort-I
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏅
+
+**Open Source**
+
+NSOC'26 • GSSoC
+ECSOC'26 • OSCI'26
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+**Hackathons**
+
+Actively
+Participating
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🥇 Achievements & Experience
+
+* 🎓 **Google Student Ambassador 2026**
+
+  * 🏆 3200+ leaderboard points
+  * 🥇 Platinum Badge unlocked
+* ☁️ **Google Cloud Arcade Facilitator**
+
+  * 🎮 Facilitating Google Cloud learning activities
+  * 🚀 Helping learners explore Google Cloud through hands-on labs
+* 🌐 **Open-Source Contributor**
+
+  * NSOC'26
+  * GSSoC
+  * ECSOC'26
+  * OSCI'26
+
+* 🧩 Active problem solver on **LeetCode & GeeksforGeeks**
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI / ML & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` • `Pandas` • `Scikit-Learn` • `Streamlit`
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+### 🎨 UI / UX
+
+`Figma` • `Responsive Design` • `Modern UI` • `CSS`
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA & Competitive Programming   █████████░  90%
+Full-Stack Development          ████████░░  80%
+AI / Machine Learning            ██████░░░░  60%
+Cloud & DevOps                   █████░░░░░  50%
+Open Source                      ███████░░░  70%
 ```
-  ██████╗  ██████╗ ███╗   ██╗ █████╗ ██╗  ██╗    OS      » Developer Edition v2026
-  ██╔══██╗██╔═══██╗████╗  ██║██╔══██╗██║ ██╔╝     Role    » Full-Stack Dev + AI/ML Explorer
-  ██████╔╝██║   ██║██╔██╗ ██║███████║█████╔╝      Uni     » UIET MDU Rohtak (CSE AI & ML)
-  ██╔══██╗██║   ██║██║╚██╗██║██╔══██║██╔═██╗      Shell   » VSCode + Terminal
-  ██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗     Status  » Building 🚀
-  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝    Coffee  » ∞ /day
-                                                   ☁️  Google Cloud Arcade Facilitator
-         ronak@github ~ $                          🎓 Google Student Ambassador 2026
-                                                   🌐 NSOC'26 · GSSoC · ECSOC'26 · OSCI'26
+
+### 🧠 My Current Focus
+
+* 🧩 DSA & problem solving
+* 💻 Advanced Full-Stack Development
+* 🤖 AI/ML fundamentals
+* ☁️ Google Cloud
+* 🌐 Open Source contribution
+* 🚀 Building real-world projects
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📝 TO-DO-APP
+
+A simple and clean task management application focused on usability and responsive UI.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ronaksharma2908/TO-DO-APP)
+
+</td>
+
+<td width="50%">
+
+## 🧬 arpmodel
+
+Machine Learning project focused on **Antibiotic Resistance Prediction**.
+
+**Tech:** Python • ML • Data Science
+
+🔗 [View Repository](https://github.com/ronaksharma2908/arpmodel)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 AI-SaaS-Dashboard
+
+Interactive analytics dashboard powered by Streamlit.
+
+**Tech:** Python • Streamlit • Data Analytics
+
+🔗 [View Repository](https://github.com/ronaksharma2908/AI-SaaS-Dashboard)
+
+</td>
+
+<td width="50%">
+
+## 🌐 My Portfolio
+
+Personal developer portfolio showcasing my projects, skills and journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ronaksharma2908/myportfolio)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💳 SAAS-BILLING Portal
+
+Full-stack SaaS billing application built using the MERN stack.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+</td>
+
+<td width="50%">
+
+## 🧮 Scientific Calculator
+
+A scientific calculator built using Python.
+
+**Tech:** Python
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksharma2908&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ronaksharma2908&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaksharma2908&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/ronak29sharma/ronaksharma2908/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+---
+
+# 🌱 My Journey
+
+```mermaid
+timeline
+    title Ronak's Developer Journey
+
+    2025 : Started B.Tech CSE (AI & ML)
+         : Began exploring Web Development
+         
+    2026 : Google Student Ambassador
+         : Google Cloud Arcade Facilitator
+         : Open Source Contributions
+         : Hackathons & AI/ML Projects
+         
+    Future : Advanced DSA
+           : AI/ML Development
+           : Full-Stack Products
+           : Build an AI Startup
 ```
 
 ---
 
-## `$ pip list --stack`
+# 🎯 2026 Goals
+
+| Goal                         | Status         |
+| ---------------------------- | -------------- |
+| 🧠 Master DSA                | 🔄 In Progress |
+| 💻 Build Full-Stack Projects | 🔄 In Progress |
+| 🤖 Learn AI/ML               | 🔄 In Progress |
+| 🌐 Contribute to Open Source | 🔥 Active      |
+| ☁️ Explore Google Cloud      | 🔥 Active      |
+| 🚀 Build AI Products         | 🎯 Next        |
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark&perline=15"/>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/ronak29sharma/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<a href="https://github.com/ronaksharma2908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sharmaronak2908@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 Have an idea? Let's build it.
+
+**Open to collaborations • Open Source • Hackathons • AI Projects**
+
+<br>
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ronaksharma2908&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 ---
 
-## `$ git log --oneline`
-
 <div align="center">
 
-| # | Project | Stack | Link |
-|:--|:--------|:------|:----:|
-| `a7f3c2e` | 🧬 **arpmodel** — Antibiotic Resistance Prediction | `Python` `ML` | [![](https://img.shields.io/badge/Repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/ronaksharma2908/arpmodel) |
-| `b2e9d1f` | 📊 **AI-SaaS-Dashboard** — Streamlit analytics | `Python` `Streamlit` | [![](https://img.shields.io/badge/Repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/ronaksharma2908/AI-SaaS-Dashboard) |
-| `c4a8f0e` | 📝 **TO-DO-APP** — Task management app | `HTML` `CSS` `JS` | [![](https://img.shields.io/badge/Repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/ronaksharma2908/TO-DO-APP) |
-| `d1b7e3a` | 🌐 **myportfolio** — Developer portfolio | `HTML` `CSS` `JS` | [![](https://img.shields.io/badge/Repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/ronaksharma2908/myportfolio) |
-| `e9c2d4f` | 💳 **SAAS-BILLING-Portal** — MERN billing system | `MERN` | `Soon` |
-| `f6a1b8c` | 🧮 **Scientific-Calculator** — Python calculator | `Python` | `Soon` |
+### Building. Learning. Experimenting. Growing. 🚀  
+**Always curious, always creating.**
+
 
 </div>
 
----
-
-## `$ cat stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ronaksharma2908&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d0017&title_color=bb9af7&icon_color=7dcfff&text_color=c0caf5" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksharma2908&layout=compact&hide_border=true&bg_color=0d0017&title_color=bb9af7&text_color=c0caf5" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ronaksharma2908&hide_border=true&background=0d0017&ring=bb9af7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=9ece6a&dates=7dcfff"/>
-
-</div>
-
----
-
-## `$ cat trophies.json`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ronaksharma2908&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
----
-
-## `$ watch contributions`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaksharma2908&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0017&color=bb9af7&line=7dcfff&point=f7768e&area_color=4a0080" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaksharma2908/ronaksharma2908/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaksharma2908/ronaksharma2908/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/ronaksharma2908/ronaksharma2908/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
-
----
-
-## `$ ping ronak --connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ronak29sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/ronaksharma2908"><img src="https://img.shields.io/badge/GitHub-4a0080?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:sharmaronak2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-**Open to Collaborations · Open Source · Hackathons · AI Projects**
-
-⭐ *Star my repos if you find them useful!*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,21,14&height=120&section=footer&reversal=true"/>
