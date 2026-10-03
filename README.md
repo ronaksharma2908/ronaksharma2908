@@ -98,7 +98,7 @@ Participating
 
 * 🎓 **Google Student Ambassador 2026**
 
-  * 🏆 3200+ leaderboard points
+  * 🏆 3460+ leaderboard points
   * 🥇 Platinum Badge unlocked
 * ☁️ **Google Cloud Arcade Facilitator**
 
