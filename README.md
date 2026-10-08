@@ -74,7 +74,7 @@ Student Ambassador
 
 **Open Source**
 
-NSOC'26 • GSSoC
+NSOC'26 • GSSoC'26
 ECSOC'26 • OSCI'26
 
 </td>
