@@ -97,7 +97,7 @@ Participating
 
 ## 🥇 Achievements & Experience
 
-* 🎓 **Google Student Ambassador 2026**
+* 🎓 **Google Student Ambassador 2026 COHORT-1**
 
   * 🏆 3600+ leaderboard points
   * 🥇 Diamond Badge unlocked
