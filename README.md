@@ -561,4 +561,3 @@ I'm always interested in connecting with developers, designers, students, and bu
 *Always curious. Always creating.*
 
 </div>
-...
